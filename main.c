@@ -1,3 +1,8 @@
+/**
+ * Author: Marios Petrov
+ * Version 1.5
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <dirent.h>
