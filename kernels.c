@@ -1,6 +1,8 @@
-//
-// Created by Marios on 5/14/2023.
-//
+/**
+ * Author: Marios Petrov
+ * Version 1.5
+ */
+
 
 #include "kernels.h"
 #include <stdlib.h>
