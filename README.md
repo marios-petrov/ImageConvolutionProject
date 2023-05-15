@@ -35,3 +35,11 @@ To run the program, use `./image_convolution`.
 - **KernelType**: This defines the different types of kernels that can be applied to an image.
 
 - **apply_kernel**: This function applies the specified kernel to the input image and returns a new image. The kernels currently supported are Gaussian blur and Sobel edge detection.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Acknowledgements
+
+
