@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgements
 - OpenAI's GPT-4, for helping write this README file, document my code, and assisting in the implementation of 3 channel processing.
 
-- Convolution of Images, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDamião
+- Convolution of Images, 
 
 - How Images are represented in C using Data Structure?, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDamião
 
