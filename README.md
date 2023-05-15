@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 - How Images are represented in C using Data Structure?, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDamião
 
-- C Programming, Lecture 65, Image Processing, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=Alexan dreDamião
+- C Programming, Lecture 65, Image Processing, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=Alexan 
 
 - Gausian Filter, https://en.wikipedia.org/wiki/Gaussian_filter
 
