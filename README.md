@@ -41,5 +41,17 @@ To run the program, use `./image_convolution`.
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgements
+- OpenAI's GPT-4, for helping write this README file, document my code, and assisting in the implementation of 3 channel processing.
+
+- Convolution of Images, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDamião
+
+- How Images are represented in C using Data Structure?, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=Alexan dreDamião
+
+- C Programming, Lecture 65, Image Processing, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=Alexan dreDamião
+
+- Gausian Filter, https://en.wikipedia.org/wiki/Gaussian_filter
+
+- Sobel Operator, https://en.wikipedia.org/wiki/Sobel_operator
+
 
 
