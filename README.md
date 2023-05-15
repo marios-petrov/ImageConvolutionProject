@@ -8,6 +8,12 @@ To build and run the project, you need a C compiler like gcc or clang. You can b
 
 To run the program, use `./image_convolution`.
 
+If you receive a directory not found error when running, 
+change the I/O paths with absolute file paths:
+
+const char* input_dir = "ImageConvolutionProject\\Input";
+const char* output_dir = "ImageConvolutionProject\\Output";
+
 ## File Structure
 
 - **image_io.h**: This header file defines the Pixel and Image structures, as well as the functions for reading and writing BMP images and freeing up memory used by images.
