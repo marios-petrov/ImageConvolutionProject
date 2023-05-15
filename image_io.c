@@ -1,3 +1,8 @@
+/**
+ * Author: Marios Petrov
+ * Version 1.5
+ */
+
 #include "image_io.h"
 #include "stdio.h"
 #include "stdlib.h"
