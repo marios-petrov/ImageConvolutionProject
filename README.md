@@ -6,7 +6,9 @@ This project is a simple image processing pipeline that reads BMP images, applie
 
 To build and run the project, you need a C compiler like gcc or clang. You can build the project by running `gcc main.c image_io.c kernels.c -o image_convolution`.
 
-To run the program, use `./image_convolution`.
+- Place all 3 channel BMP images that will be processed in the "Input Directory"
+
+- To run the program, use `./image_convolution`.
 
 If you receive a directory not found error when running, change the I/O paths with absolute file paths in lines 15 and 16 of main.c
 
