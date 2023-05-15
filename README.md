@@ -47,7 +47,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 - Convolution of Images, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDamião
 
-- How Images are represented in C using Data Structure?, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=Alexan dreDamião
+- How Images are represented in C using Data Structure?, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDamião
 
 - C Programming, Lecture 65, Image Processing, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=Alexan dreDamião
 
