@@ -43,7 +43,7 @@ If you receive a directory not found error when running, change the I/O paths wi
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgements
-- OpenAI's GPT-4, for helping write this README file, document my code, and assisting in the implementation of 3 channel processing.
+- OpenAI's GPT-4, for helping write this README file, document my code, and debugging along the implementation process.
 
 - Convolution of Images, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDami%C3%A3o
 
