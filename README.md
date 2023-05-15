@@ -8,11 +8,7 @@ To build and run the project, you need a C compiler like gcc or clang. You can b
 
 To run the program, use `./image_convolution`.
 
-If you receive a directory not found error when running, 
-change the I/O paths with absolute file paths:
-
-const char* input_dir = "ImageConvolutionProject\\Input";
-const char* output_dir = "ImageConvolutionProject\\Output";
+If you receive a directory not found error when running, change the I/O paths with absolute file paths in lines 15 and 16 of main.c
 
 ## File Structure
 
