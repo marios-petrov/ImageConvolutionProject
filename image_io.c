@@ -158,9 +158,11 @@ void free_image(Image *image)
     {
         if (image->pixels)
         {
-            free(image->pixels); // Free the memory allocated for the pixels
+            // Free the memory allocated for the pixels
+            free(image->pixels); 
         }
-        free(image); // Free the memory allocated for the image
+        // Free the memory allocated for the image
+        free(image); 
     }
 }
 
