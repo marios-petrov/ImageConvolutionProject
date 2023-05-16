@@ -49,9 +49,11 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 - Convolution of Images, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDami%C3%A3o
 
-- How Images are represented in C using Data Structure?, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=AlexandreDamião
+- How Images are represented in C using Data Structure?, https://www.youtube.com/watch?v=kP0M1_740Mc&t=27s&ab_channel=HYPERVISION
 
-- C Programming, Lecture 65, Image Processing, https://www.youtube.com/watch?v=YgtModJ-4cw&ab_channel=Alexan 
+- C Programming, Lecture 65, Image Processing, https://www.youtube.com/watch?v=HaGySs2qByc&t=445s&ab_channel=Yung-HsiangLu
+
+- Image Convolution Jamie Ludwing Satellite Digital Image Analysis, https://web.pdx.edu/~jduh/courses/Archive/geog481w07/Students/Ludwig_ImageConvolution.pdf
 
 - Gausian Filter, https://en.wikipedia.org/wiki/Gaussian_filter
 
