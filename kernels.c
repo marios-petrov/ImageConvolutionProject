@@ -12,9 +12,9 @@
 // Define the Gaussian kernel for blurring
 static const float gaussian_kernel[3][3] =
         {
-        {1.0/16, 2.0/16, 1.0/16},
-        {2.0/16, 4.0/16, 2.0/16},
-        {1.0/16, 2.0/16, 1.0/16},
+        {1.0/16, 1.0/8, 1.0/16},
+        {1.0/8, 1.0/4, 1.0/8},
+        {1.0/16, 1.0/8, 1.0/16},
         };
 
 // Define the Sobel kernel for x-axis edge detection
