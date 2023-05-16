@@ -3,8 +3,6 @@
  * Version 1.5
  */
 
-
-// Include the necessary header files for the program
 #include "kernels.h"
 #include <stdlib.h>
 #include <math.h>
